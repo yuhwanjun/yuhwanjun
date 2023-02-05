@@ -5,7 +5,7 @@
 - **Text Portfolio** : [ ](notion.com)
 - **Design Portfolio** : [ ](yuhwanjun.com)
 - **Develop Portfolio** : [ ](yuhwanjun.com)
-- **Blog** : [Velog](https://velog.io/@yuhwanjun)
+- **Blog** : []
 	
 
 >**Contact me**
